@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm **Moses**, a passionate and dedicated **Full Stack Developer** with a degree in **Computer Science** from **South Eastern Kenya University** 🎓.
+Hi there! I'm **Moses Ochieng**, a passionate and dedicated **Full Stack Developer** with a degree in **Computer Science** from **South Eastern Kenya University** 🎓.
 
 ## 🚀 About Me
 
@@ -29,7 +29,7 @@ Hi there! I'm **Moses**, a passionate and dedicated **Full Stack Developer** wit
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/moseh12)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🌐 [Portfolio](https://portfolio-jet-nine-33.vercel.app/)
 - ✉️ Email: developermoses@gmail.com
 
 ---
